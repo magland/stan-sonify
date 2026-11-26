@@ -2,6 +2,8 @@
 
 Listen to a Stan sampler explore a posterior. A Stan model is compiled to WebAssembly by the Stan Playground compilation server, sampled in the browser with [tinystan](https://github.com/WardBrian/tinystan), and its draws are played back as sound.
 
+Live at https://magland.github.io/stan-sonify/ (deployed from `main` by GitHub Actions).
+
 ## Running locally
 
 ```bash
